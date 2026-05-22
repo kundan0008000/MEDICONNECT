@@ -1,10 +1,22 @@
 # MediConnect Full Stack
 
+[![GitHub](https://img.shields.io/badge/GitHub-kundan0008000%2FMEDICONNECT-blue?logo=github)](https://github.com/kundan0008000/MEDICONNECT)
+[![Status](https://img.shields.io/badge/Status-Active-green)]()
+
 MediConnect is a full-stack web application for managing doctor appointments, profiles, and administration. It consists of three main parts:
 
 - **Frontend**: Patient-facing React app
 - **Admin**: Admin dashboard (React)
 - **Backend**: Node.js/Express API with MongoDB
+
+---
+
+## 🔗 Quick Links
+
+- **GitHub Repository**: [github.com/kundan0008000/MEDICONNECT](https://github.com/kundan0008000/MEDICONNECT)
+- **Frontend**: `http://localhost:5173`
+- **Admin**: `http://localhost:5174`
+- **Backend API**: `http://localhost:4000`
 
 ---
 
